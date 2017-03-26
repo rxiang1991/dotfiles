@@ -1,0 +1,21 @@
+
+
+
+set nu
+
+" pathogen
+execute pathogen#infect()
+
+" Plugins Start
+" ---------------------------------------------------------
+
+
+
+" ---------------------------------------------------------
+" Plugins End
+
+" Be sure to put these 2 lines after the pathogen plugins
+" For syntax highlighting and filetype detection in plugins
+syntax on
+filetype plugin indent on
+
