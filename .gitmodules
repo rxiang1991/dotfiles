@@ -10,3 +10,6 @@
 [submodule ".vim/bundle/eregex.vim"]
 	path = .vim/bundle/eregex.vim
 	url = https://github.com/othree/eregex.vim.git
+[submodule ".vim/bundle/verilog_systemverilog.vim"]
+	path = .vim/bundle/verilog_systemverilog.vim
+	url = https://github.com/vhda/verilog_systemverilog.vim.git
