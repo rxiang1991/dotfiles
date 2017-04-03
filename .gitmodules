@@ -13,3 +13,6 @@
 [submodule ".vim/bundle/verilog_systemverilog.vim"]
 	path = .vim/bundle/verilog_systemverilog.vim
 	url = https://github.com/vhda/verilog_systemverilog.vim.git
+[submodule ".vim/bundle/matchit.vim"]
+	path = .vim/bundle/matchit.vim
+	url = https://github.com/vim-scripts/matchit.zip.git
