@@ -16,3 +16,6 @@
 [submodule ".vim/bundle/matchit.vim"]
 	path = .vim/bundle/matchit.vim
 	url = https://github.com/vim-scripts/matchit.zip.git
+[submodule ".vim/bundle/ale"]
+	path = .vim/bundle/ale
+	url = https://github.com/w0rp/ale.git
