@@ -22,3 +22,6 @@
 [submodule ".vim/bundle/supertab"]
 	path = .vim/bundle/supertab
 	url = https://github.com/ervandew/supertab.git
+[submodule ".vim/bundle/vim-ripgrep"]
+	path = .vim/bundle/vim-ripgrep
+	url = https://github.com/jremmen/vim-ripgrep.git

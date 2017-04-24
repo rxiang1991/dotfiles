@@ -9,9 +9,13 @@
 
 source ~/.vim/plugin_setting.vim
 
-"Add line number
+" Font
+set guifont=Monospace\ 14
+
+" Add line number
 set nu
 
+nmap <F2> :q <CR>
 
 " pathogen
 execute pathogen#infect()
