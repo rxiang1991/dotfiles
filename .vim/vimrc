@@ -1,13 +1,15 @@
 " ============================
 "
 " Author : William Liao
-" Date   : 2017.03.27
+" Date   : 2017.05.01
 "
 " vimrc setting
 "
 " ============================
 
 source ~/.vim/plugin_setting.vim
+source ~/.vim/personal_vim_aliases.vim
+source ~/.vim/personal_vim_mappings.vim
 
 " Font
 set guifont=Monospace\ 14
@@ -15,7 +17,12 @@ set guifont=Monospace\ 14
 " Add line number
 set nu
 
+
 nmap <F2> :q <CR>
+
+" set paste <--> set nopaste
+set pastetoggle=<F4>
+
 
 " pathogen
 execute pathogen#infect()
