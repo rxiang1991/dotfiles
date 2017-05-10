@@ -35,3 +35,20 @@ let NERDCommentEmptyLines = 1
 let NERDTrimTrailingWhitespace = 1
 " ---------------------------------------
 
+
+
+" indentLine
+" ---------------------------------------
+" Vim
+" let g:indentLine_color_term = 239
+
+"GVim
+" let g:indentLine_color_gui = '#A4E57E'
+
+let g:indentLine_char = 'c'
+
+" let g:indentLine_leadingSpaceEnabled = 1
+let g:indentLine_leadingSpaceChar = '·'
+" let g:indentLine_char = '·'﻿
+" ---------------------------------------
+
